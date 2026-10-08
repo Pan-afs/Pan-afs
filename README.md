@@ -1,8 +1,8 @@
 # Hi, I'm Pania Afsharfarnia 👋
 
-ML Engineer · efficient LLM inference
+ML and Data · efficient LLM inference
 
-I work on making large AI models cheaper to run without making them less reliable: token pruning, quantization, and deploying models on resource-limited edge devices. I'm currently an ML Engineer at Newtone, building data pipelines and ML infrastructure.
+I work on making large AI models cheaper to run without making them less reliable: token pruning, quantization, and deploying models on resource-limited edge devices. I'm building data pipelines and ML infrastructure.
 
 ### 📄 Publications
 - **Dynamic token pruning for LLMs: leveraging task-specific attention and adaptive thresholds**
